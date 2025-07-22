@@ -27,6 +27,7 @@ app.get("/", (req, res) => {
   res.send({
     success: true,
     author: "Milan Bhandari",
+    author2:"Denish tharu",
     contact: "https://www.milanb.com.np/",
     msg: "Universal Downloader API is running.",
   });
