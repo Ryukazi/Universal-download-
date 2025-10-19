@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
     success: true,
     author: "Ryukazi",
     author2:"Denish tharu",
-    contact: "https://www.milanb.com.np/",
+    contact: "",
     msg: "Universal Downloader API is running.",
   });
 });
